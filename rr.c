@@ -1,10 +1,3 @@
-/*
-Family Name: Thakkar
-Given Name: Arpit Nileshbhai
-Student Number: 217632340
-EECS Login ID (the one you use to access the red server): arpit21
-YorkU email address (the one that appears in eClass): arpit21@my.yorku.ca
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
